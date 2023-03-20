@@ -1,5 +1,16 @@
-
+[
     {
+        "soal": "Absensi Kelas 12 Mia 2",
+        "jawaban": [
+            "sheraton",
+            "the westin",
+            "kempinski",
+            "the langham",
+            "borobudur",
+            "hilton"
+        ]
+    },
+{
         "soal": "Absensi Kelas 12 Mia 2",
         "jawaban": [
             "sheraton",
@@ -11,3 +22,4 @@
         ]
     }
     
+]
