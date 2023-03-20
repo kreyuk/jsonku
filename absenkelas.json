@@ -1,15 +1,4 @@
-[
-    {
-        "soal": "Hotel Bintang 5 Jakarta",
-        "jawaban": [
-            "sheraton",
-            "the westin",
-            "kempinski",
-            "the langham",
-            "borobudur",
-            "hilton"
-        ]
-    },
+
     {
         "soal": "Hotel Bintang 5 Jakarta",
         "jawaban": [
@@ -21,4 +10,4 @@
             "hilton"
         ]
     }
-    ]
+    
